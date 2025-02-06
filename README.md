@@ -14,7 +14,6 @@
 | [Clerk.Net](https://github.com/Hawxy/Clerk.Net) | [vite-plugin-supported-browserslist](https://github.com/Hawxy/vite-plugin-supported-browserslist)  | [Marten](https://github.com/JasperFx/marten) |
 | [Fga.Net](https://github.com/Hawxy/Fga.Net) |   | [Wolverine](https://github.com/JasperFx/wolverine) |
 | [Discord.Addons.Hosting](https://github.com/Hawxy/Discord.Addons.Hosting) |  | |
-| [Clerk.Net](https://github.com/Hawxy/Clerk.Net) |  | |
 | [Weasel.Quartz](https://github.com/Hawxy/Weasel.Quartz) |  | |
 
 

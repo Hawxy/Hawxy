@@ -11,9 +11,9 @@
 | Personal OSS (C#/.NET) | Personal OSS (TS/Vite/Vue) | JasperFx OSS (C#/.NET) |
 | ------------- | ------------- | ------------- |
 | [Auth0Net.DependencyInjection](https://github.com/Hawxy/Auth0Net.DependencyInjection) | [cdk-tailscale-bastion](https://github.com/Hawxy/cdk-tailscale-bastion) | [Alba](https://github.com/JasperFx/alba)  |
-| [Clerk.Net](https://github.com/Hawxy/Clerk.Net) | [vite-plugin-supported-browserslist](https://github.com/Hawxy/vite-plugin-supported-browserslist)  | [Marten](https://github.com/JasperFx/marten) |
-| [Fga.Net](https://github.com/Hawxy/Fga.Net) |   | [Wolverine](https://github.com/JasperFx/wolverine) |
-| [Discord.Addons.Hosting](https://github.com/Hawxy/Discord.Addons.Hosting) |  | |
+| [Clerk.Net](https://github.com/Hawxy/Clerk.Net) | [cdk-twingate](https://github.com/Hawxy/cdk-twingate) | [Marten](https://github.com/JasperFx/marten) |
+| [Fga.Net](https://github.com/Hawxy/Fga.Net) | [vite-plugin-supported-browserslist](https://github.com/Hawxy/vite-plugin-supported-browserslist) | [Wolverine](https://github.com/JasperFx/wolverine) |
+| [Discord.Addons.Hosting](https://github.com/Hawxy/Discord.Addons.Hosting) | | |
 | [Weasel.Quartz](https://github.com/Hawxy/Weasel.Quartz) |  | |
 
 

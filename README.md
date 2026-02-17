@@ -16,9 +16,4 @@
 | [Discord.Addons.Hosting](https://github.com/Hawxy/Discord.Addons.Hosting) | | |
 | [Weasel.Quartz](https://github.com/Hawxy/Weasel.Quartz) |  | |
 
-
-
-
 </div>
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hawxy&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hawxy" /></p>

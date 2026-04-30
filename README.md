@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JT</h1>
-<h3 align="center">I contribute to a range of Vue, Vite, CDK, Auth0 & C#/ASP.NET Core projects, and assist in maintaining the <a href="https://github.com/JasperFx">JasperFx</a> ecosystem.</h3>
+<h3 align="center">I contribute to a range of C#/ASP.NET Core, Vue.js, Vite, CDK & Auth0 projects, and assist in maintaining the <a href="https://github.com/JasperFx">JasperFx</a> ecosystem.</h3>
 
 <h4 align="center">You can reach out via software@hawx.dev</h4>
 
@@ -12,8 +12,9 @@
 | ------------- | ------------- | ------------- |
 | [Auth0Net.DependencyInjection](https://github.com/Hawxy/Auth0Net.DependencyInjection) | [cdk-tailscale-bastion](https://github.com/Hawxy/cdk-tailscale-bastion) | [Alba](https://github.com/JasperFx/alba)  |
 | [Fga.Net](https://github.com/Hawxy/Fga.Net) | [cdk-twingate](https://github.com/Hawxy/cdk-twingate) | [Marten](https://github.com/JasperFx/marten) |
-| [Discord.Addons.Hosting](https://github.com/Hawxy/Discord.Addons.Hosting) | [vite-plugin-supported-browserslist](https://github.com/Hawxy/vite-plugin-supported-browserslist) | [Wolverine](https://github.com/JasperFx/wolverine) |
-|  [Weasel.Quartz](https://github.com/Hawxy/Weasel.Quartz) | | |
+| [OneSchema.AspNetCore](https://github.com/Hawxy/OneSchema.AspNetCore) | [vite-plugin-supported-browserslist](https://github.com/Hawxy/vite-plugin-supported-browserslist) | [Wolverine](https://github.com/JasperFx/wolverine) |
+| [Discord.Addons.Hosting](https://github.com/Hawxy/Discord.Addons.Hosting) | | |
+| [Weasel.Quartz](https://github.com/Hawxy/Weasel.Quartz) | | |
 
 
 </div>
